@@ -1,0 +1,52 @@
+﻿<Page x:Class="SchoolShopP.Page.AddEditePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SchoolShopP.Page"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Добавление/Изменение">
+
+    <Grid>
+        
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            
+            <StackPanel>
+               
+                <Image Width="150" Height="150"  MouseDown="PhotoBox_MouseDown" x:Name="PhotoBox" Margin="15,180,15,5">
+                    <Image.Source>
+                        <Binding Path="PhotoProduct">
+                            <Binding.TargetNullValue>
+                                <ImageSource>/Resources/no_product.jpg</ImageSource>
+                            </Binding.TargetNullValue>
+                        </Binding>
+                    </Image.Source>
+                </Image>
+                <Button Name="Dialog" Click="Dialog_Click" Style="{StaticResource ResourceKey=StyleButton}">Выбрать фото</Button>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            
+                <TextBlock FontSize="20" Name="Save"  HorizontalAlignment="Center" Visibility="Collapsed" Text="Добавление" Margin="5"/>
+                <TextBlock FontSize="20" Name="Edit" HorizontalAlignment="Center" Visibility="Collapsed" Text="Изменение" Margin="5"/>
+                <StackPanel x:Name="PanelD" Visibility="Collapsed">
+                 <TextBlock  Text="ID" Margin="5"/>
+                <TextBox Name="IDtext"  Text="{Binding ID}" Margin="5" TextWrapping="Wrap" Width="200" Height="20"/>
+                </StackPanel>
+               
+                <TextBlock  Text="Название" Margin="5"/>
+                <TextBox  Text="{Binding Title}" Margin="5" TextWrapping="Wrap" Width="200" Height="20"/>
+                <TextBlock  Text="Описание" Margin="5"/>
+                <TextBox  Text="{Binding Description}" Margin="5" Width="200" Height="20"/>
+                <TextBlock  Text="Цена" Margin="5"/>
+                <TextBox  Text="{Binding Cost}" Margin="5" Width="200"  Height="20"/>
+                <TextBlock  Text="Производитель" Margin="5"/>
+                <ComboBox Width="200" DisplayMemberPath="Name" x:Name="ManufacturerBox" SelectedItem="{Binding Manufacturer}" Margin="5"/>
+                <CheckBox FontFamily="Comic Sans MS" Margin="5"  Content="Активен" IsChecked="{Binding IsActive}"/>
+                <Button x:Name="SaveButton" Style="{StaticResource ResourceKey=StyleButton}" Content="Сохранить" Margin="5" Click="SaveButton_Click"/>
+            </StackPanel>
+           
+        </StackPanel>
+        
+    </Grid>
+</Page>

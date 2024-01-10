@@ -1,0 +1,77 @@
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\bin\Debug\SchoolShopP.exe.config
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\bin\Debug\SchoolShopP.exe
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\bin\Debug\SchoolShopP.pdb
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\obj\Debug\Page\ProductPage.g.cs
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP_Content.g.cs
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP_MarkupCompile.cache
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP_MarkupCompile.lref
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\obj\Debug\Page\ProductPage.baml
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.g.resources
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.Properties.Resources.resources
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.CopyComplete
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.exe
+C:\Users\admin\Desktop\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.pdb
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\bin\Debug\SchoolShopP.exe.config
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\bin\Debug\SchoolShopP.exe
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\bin\Debug\SchoolShopP.pdb
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\bin\Debug\EntityFramework.dll
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.AssemblyReference.cache
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\Page\ProductPage.g.cs
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\App.g.cs
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP_Content.g.cs
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP_MarkupCompile.cache
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP_MarkupCompile.lref
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\Page\ProductPage.baml
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.g.resources
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.Properties.Resources.resources
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.GenerateResource.cache
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.CoreCompileInputs.cache
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.CopyComplete
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.exe
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.pdb
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\Windows\MainWindow.baml
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\App.baml
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\Page\AddEditePage.g.cs
+C:\Users\Gigаbyte\Downloads\SchoolShopP\SchoolShopP\obj\Debug\Page\AddEditePage.baml
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\bin\Debug\SchoolShopP.exe.config
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\bin\Debug\SchoolShopP.exe
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\bin\Debug\SchoolShopP.pdb
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\bin\Debug\EntityFramework.dll
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.AssemblyReference.cache
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\Page\AddEditePage.g.cs
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\Page\ProductPage.g.cs
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\App.g.cs
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP_Content.g.cs
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP_MarkupCompile.cache
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP_MarkupCompile.lref
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\App.baml
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\Page\AddEditePage.baml
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\Windows\MainWindow.baml
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\Page\ProductPage.baml
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.g.resources
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.Properties.Resources.resources
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.GenerateResource.cache
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.CoreCompileInputs.cache
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.CopyComplete
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.exe
+C:\Users\79100\Downloads\SchoolShopP (3)\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.pdb
