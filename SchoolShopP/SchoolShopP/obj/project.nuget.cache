@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "sXE6M2haZBhuisUxMgH50aFNGNT+IgAgZ4Lm0iZTb4qwgFJuLqNLoOmOnnewPHofp28Nbg/RYo9Rb1/aaFCn0w==",
+  "dgSpecHash": "/wbuY3EGcuMykBwcVkp+5hGKENIz7tcalrYINhyq8oupd5TaM2XA10oweAfzfsfqWMCWS/Q+po//zBlZINUBag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\79100\\OneDrive\\Рабочий стол\\Practicaa\\Practica\\SchoolShopP\\SchoolShopP\\SchoolShop.csproj",
+  "projectFilePath": "D:\\Рабочий стол\\Practica\\SchoolShopP\\SchoolShopP\\SchoolShop.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\79100\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512",
-    "C:\\Users\\79100\\.nuget\\packages\\entityframework.ru\\6.2.0\\entityframework.ru.6.2.0.nupkg.sha512"
+    "C:\\Users\\1\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\entityframework.ru\\6.2.0\\entityframework.ru.6.2.0.nupkg.sha512"
   ],
   "logs": []
 }

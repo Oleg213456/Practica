@@ -194,6 +194,11 @@
     <Resource Include="Resources\no_product.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="Resources\Back.png" />
+    <Resource Include="Resources\sort.png" />
+    <Resource Include="Resources\free-icon-descending-3562344 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
     <Content Include="Database\Model1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>Model1.edmx</DependentUpon>
@@ -204,9 +209,6 @@
       <DependentUpon>Model1.edmx</DependentUpon>
       <LastGenOutput>Model1.cs</LastGenOutput>
     </Content>
-    <Resource Include="Resources\Back.png" />
-    <Resource Include="Resources\sort.png" />
-    <Resource Include="Resources\free-icon-descending-3562344 %281%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

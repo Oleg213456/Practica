@@ -12,6 +12,6 @@ namespace SchoolShopP.DB
     public class DataBase
     {
        
-        public static SchoolDemoObEntities entities = new SchoolDemoObEntities();
+        public static aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEntities1 entities = new aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEntities1();
     }
 }

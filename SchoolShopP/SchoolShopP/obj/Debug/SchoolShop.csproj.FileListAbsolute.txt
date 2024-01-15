@@ -50,3 +50,55 @@ C:\Users\79100\OneDrive\Рабочий стол\Practicaa\Practica\SchoolShopP\S
 C:\Users\79100\OneDrive\Рабочий стол\Practicaa\Practica\SchoolShopP\SchoolShopP\obj\Debug\SchoolShop.csproj.CopyComplete
 C:\Users\79100\OneDrive\Рабочий стол\Practicaa\Practica\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.exe
 C:\Users\79100\OneDrive\Рабочий стол\Practicaa\Practica\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.pdb
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\SchoolShop.csproj.AssemblyReference.cache
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\Page\AddEditePage.g.cs
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\Windows\MainWindow.g.cs
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\Page\ProductPage.g.cs
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\App.g.cs
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP_Content.g.cs
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP_MarkupCompile.cache
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP_MarkupCompile.lref
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.exe
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.pdb
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\bin\Debug\SchoolShopP.exe.config
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\bin\Debug\SchoolShopP.exe
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\bin\Debug\SchoolShopP.pdb
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\bin\Debug\EntityFramework.SqlServer.dll
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\bin\Debug\EntityFramework.dll
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\bin\Debug\ru\EntityFramework.resources.dll
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\App.baml
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\Page\AddEditePage.baml
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\Windows\MainWindow.baml
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\Page\ProductPage.baml
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.g.resources
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.Properties.Resources.resources
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\SchoolShop.csproj.GenerateResource.cache
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\SchoolShop.csproj.CoreCompileInputs.cache
+D:\Загрузки\поиск ошибки (2)\поиск ошибки\поиск ошибки\Launcher\Launcher\bin\Debug\net7.0-windows\Oleg213456-Practica-4111960\SchoolShopP\SchoolShopP\obj\Debug\SchoolShop.csproj.CopyComplete
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\bin\Debug\SchoolShopP.exe.config
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\bin\Debug\SchoolShopP.exe
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\bin\Debug\SchoolShopP.pdb
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\bin\Debug\EntityFramework.SqlServer.dll
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\bin\Debug\EntityFramework.dll
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\bin\Debug\ru\EntityFramework.resources.dll
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\SchoolShop.csproj.AssemblyReference.cache
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\Page\AddEditePage.g.cs
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\Windows\MainWindow.g.cs
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\Page\ProductPage.g.cs
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\App.g.cs
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP_Content.g.cs
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP_MarkupCompile.cache
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP_MarkupCompile.lref
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\App.baml
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\Page\AddEditePage.baml
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\Windows\MainWindow.baml
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\Page\ProductPage.baml
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.g.resources
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.Properties.Resources.resources
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\SchoolShop.csproj.GenerateResource.cache
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\SchoolShop.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\SchoolShop.csproj.CopyComplete
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.exe
+D:\Рабочий стол\Practica\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.pdb

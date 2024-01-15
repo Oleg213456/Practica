@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Schema Namespace="SchoolDemoObModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+<Schema Namespace="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
   <EntityType Name="AttachedProduct">
     <Key>
       <PropertyRef Name="MainProductID" />
@@ -76,7 +76,7 @@
     <Property Name="Cost" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
     <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
     <Property Name="MainImagePath" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
-    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <Property Name="IsActive" Type="Boolean" />
     <Property Name="ManufacturerID" Type="Int32" />
     <Property Name="PhotoProduct" Type="Binary" MaxLength="Max" FixedLength="false" />
     <NavigationProperty Name="AttachedProduct" Relationship="Self.FK_AttachedProduct_Product" FromRole="Product" ToRole="AttachedProduct" />
@@ -261,7 +261,7 @@
     <End Role="Client" Type="Self.Client" Multiplicity="*" />
     <End Role="Tag" Type="Self.Tag" Multiplicity="*" />
   </Association>
-  <EntityContainer Name="SchoolDemoObEntities" annotation:LazyLoadingEnabled="true">
+  <EntityContainer Name="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEntities1" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="AttachedProduct" EntityType="Self.AttachedProduct" />
     <EntitySet Name="Client" EntityType="Self.Client" />
     <EntitySet Name="ClientService" EntityType="Self.ClientService" />

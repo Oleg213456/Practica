@@ -13,10 +13,10 @@ namespace SchoolShopP.Database
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class SchoolDemoObEntities : DbContext
+    public partial class aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEntities1 : DbContext
     {
-        public SchoolDemoObEntities()
-            : base("name=SchoolDemoObEntities")
+        public aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEntities1()
+            : base("name=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEntities1")
         {
         }
     

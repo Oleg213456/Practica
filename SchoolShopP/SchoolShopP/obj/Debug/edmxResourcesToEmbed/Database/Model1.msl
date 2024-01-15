@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-  <EntityContainerMapping StorageEntityContainer="Хранилище SchoolDemoObModelContainer" CdmEntityContainer="SchoolDemoObEntities">
+  <EntityContainerMapping StorageEntityContainer="Хранилище aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaModelContainer" CdmEntityContainer="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEntities1">
     <EntitySetMapping Name="AttachedProduct">
-      <EntityTypeMapping TypeName="SchoolDemoObModel.AttachedProduct">
+      <EntityTypeMapping TypeName="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaModel.AttachedProduct">
         <MappingFragment StoreEntitySet="AttachedProduct">
           <ScalarProperty Name="MainProductID" ColumnName="MainProductID" />
           <ScalarProperty Name="AttachedProductID" ColumnName="AttachedProductID" />
@@ -10,7 +10,7 @@
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="Client">
-      <EntityTypeMapping TypeName="SchoolDemoObModel.Client">
+      <EntityTypeMapping TypeName="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaModel.Client">
         <MappingFragment StoreEntitySet="Client">
           <ScalarProperty Name="ID" ColumnName="ID" />
           <ScalarProperty Name="FirstName" ColumnName="FirstName" />
@@ -26,7 +26,7 @@
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="ClientService">
-      <EntityTypeMapping TypeName="SchoolDemoObModel.ClientService">
+      <EntityTypeMapping TypeName="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaModel.ClientService">
         <MappingFragment StoreEntitySet="ClientService">
           <ScalarProperty Name="ID" ColumnName="ID" />
           <ScalarProperty Name="ClientID" ColumnName="ClientID" />
@@ -37,7 +37,7 @@
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="DocumentByService">
-      <EntityTypeMapping TypeName="SchoolDemoObModel.DocumentByService">
+      <EntityTypeMapping TypeName="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaModel.DocumentByService">
         <MappingFragment StoreEntitySet="DocumentByService">
           <ScalarProperty Name="ID" ColumnName="ID" />
           <ScalarProperty Name="ClientServiceID" ColumnName="ClientServiceID" />
@@ -46,7 +46,7 @@
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="Gender">
-      <EntityTypeMapping TypeName="SchoolDemoObModel.Gender">
+      <EntityTypeMapping TypeName="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaModel.Gender">
         <MappingFragment StoreEntitySet="Gender">
           <ScalarProperty Name="Code" ColumnName="Code" />
           <ScalarProperty Name="Name" ColumnName="Name" />
@@ -54,7 +54,7 @@
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="Manufacturer">
-      <EntityTypeMapping TypeName="SchoolDemoObModel.Manufacturer">
+      <EntityTypeMapping TypeName="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaModel.Manufacturer">
         <MappingFragment StoreEntitySet="Manufacturer">
           <ScalarProperty Name="ID" ColumnName="ID" />
           <ScalarProperty Name="Name" ColumnName="Name" />
@@ -63,7 +63,7 @@
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="Product">
-      <EntityTypeMapping TypeName="SchoolDemoObModel.Product">
+      <EntityTypeMapping TypeName="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaModel.Product">
         <MappingFragment StoreEntitySet="Product">
           <ScalarProperty Name="ID" ColumnName="ID" />
           <ScalarProperty Name="Title" ColumnName="Title" />
@@ -77,7 +77,7 @@
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="ProductPhoto">
-      <EntityTypeMapping TypeName="SchoolDemoObModel.ProductPhoto">
+      <EntityTypeMapping TypeName="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaModel.ProductPhoto">
         <MappingFragment StoreEntitySet="ProductPhoto">
           <ScalarProperty Name="ID" ColumnName="ID" />
           <ScalarProperty Name="ProductID" ColumnName="ProductID" />
@@ -86,7 +86,7 @@
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="ProductSale">
-      <EntityTypeMapping TypeName="SchoolDemoObModel.ProductSale">
+      <EntityTypeMapping TypeName="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaModel.ProductSale">
         <MappingFragment StoreEntitySet="ProductSale">
           <ScalarProperty Name="ID" ColumnName="ID" />
           <ScalarProperty Name="SaleDate" ColumnName="SaleDate" />
@@ -97,7 +97,7 @@
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="Service">
-      <EntityTypeMapping TypeName="SchoolDemoObModel.Service">
+      <EntityTypeMapping TypeName="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaModel.Service">
         <MappingFragment StoreEntitySet="Service">
           <ScalarProperty Name="ID" ColumnName="ID" />
           <ScalarProperty Name="Title" ColumnName="Title" />
@@ -110,7 +110,7 @@
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="ServicePhoto">
-      <EntityTypeMapping TypeName="SchoolDemoObModel.ServicePhoto">
+      <EntityTypeMapping TypeName="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaModel.ServicePhoto">
         <MappingFragment StoreEntitySet="ServicePhoto">
           <ScalarProperty Name="ID" ColumnName="ID" />
           <ScalarProperty Name="ServiceID" ColumnName="ServiceID" />
@@ -119,7 +119,7 @@
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="Tag">
-      <EntityTypeMapping TypeName="SchoolDemoObModel.Tag">
+      <EntityTypeMapping TypeName="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaModel.Tag">
         <MappingFragment StoreEntitySet="Tag">
           <ScalarProperty Name="ID" ColumnName="ID" />
           <ScalarProperty Name="Title" ColumnName="Title" />
@@ -127,7 +127,7 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
-    <AssociationSetMapping Name="TagOfClient" TypeName="SchoolDemoObModel.TagOfClient" StoreEntitySet="TagOfClient">
+    <AssociationSetMapping Name="TagOfClient" TypeName="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaModel.TagOfClient" StoreEntitySet="TagOfClient">
       <EndProperty Name="Client">
         <ScalarProperty Name="ID" ColumnName="ClientID" />
       </EndProperty>

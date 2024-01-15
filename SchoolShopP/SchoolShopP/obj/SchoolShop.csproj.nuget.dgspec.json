@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\79100\\OneDrive\\Рабочий стол\\Practicaa\\Practica\\SchoolShopP\\SchoolShopP\\SchoolShop.csproj": {}
+    "D:\\Рабочий стол\\Practica\\SchoolShopP\\SchoolShopP\\SchoolShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\79100\\OneDrive\\Рабочий стол\\Practicaa\\Practica\\SchoolShopP\\SchoolShopP\\SchoolShop.csproj": {
+    "D:\\Рабочий стол\\Practica\\SchoolShopP\\SchoolShopP\\SchoolShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\79100\\OneDrive\\Рабочий стол\\Practicaa\\Practica\\SchoolShopP\\SchoolShopP\\SchoolShop.csproj",
-        "projectName": "SchoolShopP",
-        "projectPath": "C:\\Users\\79100\\OneDrive\\Рабочий стол\\Practicaa\\Practica\\SchoolShopP\\SchoolShopP\\SchoolShop.csproj",
-        "packagesPath": "C:\\Users\\79100\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\79100\\OneDrive\\Рабочий стол\\Practicaa\\Practica\\SchoolShopP\\SchoolShopP\\obj\\",
+        "projectUniqueName": "D:\\Рабочий стол\\Practica\\SchoolShopP\\SchoolShopP\\SchoolShop.csproj",
+        "projectName": "SchoolShop",
+        "projectPath": "D:\\Рабочий стол\\Practica\\SchoolShopP\\SchoolShopP\\SchoolShop.csproj",
+        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+        "outputPath": "D:\\Рабочий стол\\Practica\\SchoolShopP\\SchoolShopP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\79100\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,9 +47,6 @@
       },
       "runtimes": {
         "win": {
-          "#import": []
-        },
-        "win-arm64": {
           "#import": []
         },
         "win-x64": {
