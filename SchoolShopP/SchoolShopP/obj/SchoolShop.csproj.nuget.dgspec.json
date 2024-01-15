@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Рабочий стол\\Practica\\SchoolShopP\\SchoolShopP\\SchoolShop.csproj": {}
+    "D:\\Рабочий стол\\ff\\Practica\\SchoolShopP\\SchoolShopP\\SchoolShop.csproj": {}
   },
   "projects": {
-    "D:\\Рабочий стол\\Practica\\SchoolShopP\\SchoolShopP\\SchoolShop.csproj": {
+    "D:\\Рабочий стол\\ff\\Practica\\SchoolShopP\\SchoolShopP\\SchoolShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Рабочий стол\\Practica\\SchoolShopP\\SchoolShopP\\SchoolShop.csproj",
+        "projectUniqueName": "D:\\Рабочий стол\\ff\\Practica\\SchoolShopP\\SchoolShopP\\SchoolShop.csproj",
         "projectName": "SchoolShop",
-        "projectPath": "D:\\Рабочий стол\\Practica\\SchoolShopP\\SchoolShopP\\SchoolShop.csproj",
+        "projectPath": "D:\\Рабочий стол\\ff\\Practica\\SchoolShopP\\SchoolShopP\\SchoolShop.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "D:\\Рабочий стол\\Practica\\SchoolShopP\\SchoolShopP\\obj\\",
+        "outputPath": "D:\\Рабочий стол\\ff\\Practica\\SchoolShopP\\SchoolShopP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
